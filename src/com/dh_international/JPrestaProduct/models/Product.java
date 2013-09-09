@@ -1,6 +1,1 @@
-package com.dh_international.JPrestaProduct.models;
-
-public class Product {
-
-	
-}
+U2FsdGVkX19x4o91wRhYy/ZH8PY4v7X541ygyF2bTDs=
